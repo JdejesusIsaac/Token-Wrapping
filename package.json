@@ -1,0 +1,19 @@
+{
+  "name": "avax-labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.1-solc-0.7",
+    "@truffle/hdwallet-provider": "^1.6.0",
+    "web3": "^1.6.0"
+  }
+}
